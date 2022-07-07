@@ -1,0 +1,21 @@
+.truncate {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+svg {
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
+
+.card {
+    transition: 1s all ease;
+}
+
+.favourite {
+}
